@@ -1,6 +1,6 @@
 
 A program that is based on communication protocols and allows you to send files or messages using an IP address and port.
-# 📡 PacketSender (Python + Tkinter)
+#  PacketSender (Python + Tkinter)
 
 Bu proje, Python kullanılarak geliştirilen basit bir **UDP/TCP Packet Sender** uygulamasıdır.  
 `tkinter` kütüphanesi ile oluşturulan grafik arayüz (GUI) sayesinde kullanıcı, belirlediği IP adresi ve port numarasına TCP veya UDP protokolü üzerinden mesaj gönderebilir.  
@@ -8,7 +8,7 @@ Aynı zamanda uygulama, sabit portlar üzerinden gelen mesajları dinler ve ekra
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 - **TCP ve UDP desteği**: İstenilen protokol seçilip mesaj gönderilebilir.
 - **Sabit dinleme portları**:
@@ -19,7 +19,7 @@ Aynı zamanda uygulama, sabit portlar üzerinden gelen mesajları dinler ve ekra
 
 ---
 
-## 🖥️ Arayüz
+##  Arayüz
 
 - **IP Address**: Mesajı göndermek istediğiniz hedef IP adresi.  
 - **Hedef Port**: Mesajın gönderileceği hedef port.  
@@ -34,7 +34,7 @@ Uygulama açıldığında ayrıca sabit dinleme portları ekranda görüntüleni
 
 ---
 
-## ⚙️ Kurulum
+##  Kurulum
 
 1. Python 3 kurulu olduğundan emin olun.  
 2. Uygulamayı çalıştırmak için terminalde:  
